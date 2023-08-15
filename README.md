@@ -10,6 +10,7 @@ I'm a passionate web developer, graphic designer, tattoo artist and a huge fan o
 * Node JS 
 * SQL and Sequelize
 * Express
+* Gatsby
 
 :rocket: What I love the most about development is the possibility of bringing solutions to real life problems and transforming it, so I'm planning to add Kotlin and Swift to that list in a short future, and expand my horizons to Mobile Developement. 
 
