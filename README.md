@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Santiago. I'm from Argentina
-I'm a passionate web developer, graphic designer, tattoo artist and a huge fan of music. Welcome to my Github!
+### Hi there 👋 I'm Santiago and I'm from Argentina. I am a Fullstack Web Developer, and quite a passionate troubleshoot errors solver 😂 
+🎓 I'm also a graphic designer, so that explains my strong vocation as a Front End developer. But the truth is that the more I learn and dig into backend and APIs, the more I love them! Welcome to my Github!
 
  🤓 The projects you're about to see have involved these technologies so far: 
 * Javascript
@@ -12,8 +12,6 @@ I'm a passionate web developer, graphic designer, tattoo artist and a huge fan o
 * Laravel + PHP
 * Express
 * Gatsby
-
-:rocket: What I love the most about development is the possibility of bringing solutions to real life problems and transforming it, so I'm planning to add Kotlin and Swift to that list in a short future, and expand my horizons to Mobile Developement. 
 
 I hope you enjoy checking out my work. Feel free to <a
             href="https://www.linkedin.com/in/santiago-calabro/"
