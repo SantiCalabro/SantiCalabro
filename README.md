@@ -8,7 +8,8 @@ I'm a passionate web developer, graphic designer, tattoo artist and a huge fan o
 * React 
 * Redux
 * Node JS 
-* SQL and Sequelize
+* SQL
+* Laravel + PHP
 * Express
 * Gatsby
 
